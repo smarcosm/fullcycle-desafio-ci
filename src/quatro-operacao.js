@@ -11,4 +11,4 @@ exports.divi = function(a, b) {
   return a / b;
 }
 
-// Finalizado 
+// Corrigido
